@@ -1,6 +1,6 @@
 def calcular_precio_producto(coste_producto):
     pass
-
+#prueba 1
 
 def calcular_precio_servicio(cantidad_horas):
     pass
